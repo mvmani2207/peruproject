@@ -1,0 +1,27 @@
+﻿
+/* GridView width */
+.gridview-style {
+    width: 80%; /* Adjust the width percentage as needed */
+    border-collapse: collapse;
+    margin: 20px auto; /* Center the GridView */
+}
+
+/* Header styling */
+.gridview-style th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+    width: 20%; /* Adjust header column width */
+}
+
+/* Data row styling */
+.gridview-style td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    width: 20%; /* Adjust data column width */
+}
+
+/* Other styles remain the same */
+
